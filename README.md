@@ -13,11 +13,13 @@
     - Can write and understand HTML and css/sass rather well
     - is able to understand JS
     - creative flow when using css for visual parts of programming
-    - 
+    - Can google what im struggling with and find the solution quite easily
+    - Can easily learn and apply new aspects of css fast
+      
 2. **Interests and Values**:
     
     - Really interested in wanting to learn more front end aspects of web development, i enjoy the more visual parts of web dev.
-    - Values i enjoy are being comfortable but also being pushed a bit out the comfort zone so i can achieve more than what im comfy with
+    - Values i enjoy are being comfortable but also being pushed a bit out the comfort zone so i can achieve more than what im comfy with.
 
 ### Part 2: Career Exploration Insights
 
@@ -25,11 +27,13 @@
     
     - Front end, css developer, react developer, UI/UX developer
     - I'm interested in all the more creative and visual parts of the career choices
+    - Anything front end based i really want to get into, career wise.
       
 2. **Alignment with Personal Profile**:
   
     - The career paths im looking for all reflect on my more artistic creative parts of me, such as the css along with the ui/ux dev. Thus most the areas i want to explore to help gain more skills on that are any courses or guides to help
        me improve the skills needed for those careers.
+    - I am positive i can achieve this after a year and have enough skills to get into a junior or entry job for front end
 
 ### Part 3: SMART Career Goals
 
@@ -73,12 +77,9 @@
     - finding friends and fimilairs who are or know people who work in this field
     - finding something new or new langauges that i might enjoy more than css to branch more oppurtunities for me to work in
 
-### Submission
+### Summery
 
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
+- I plan to do all in my power and what is availible to me to get into anywhere in the front end or more creative side of web developemnt, with my sense of learning css quick and wanting to try go beyond what the course teaches us about
+  css i feel like i have a pretty neat chance of landing somewhere, with hopefully making some connections, and just a little bit of luck, i can land it. 
 
 
